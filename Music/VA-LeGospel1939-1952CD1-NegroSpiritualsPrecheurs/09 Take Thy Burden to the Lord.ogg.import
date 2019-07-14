@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/09 Take Thy Burden to the Lord.ogg-38f61c7d4078cd4759ffd8e90b7fede5.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/09 Take Thy Burden to the Lord.ogg"
+dest_files=[ "res://.import/09 Take Thy Burden to the Lord.ogg-38f61c7d4078cd4759ffd8e90b7fede5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

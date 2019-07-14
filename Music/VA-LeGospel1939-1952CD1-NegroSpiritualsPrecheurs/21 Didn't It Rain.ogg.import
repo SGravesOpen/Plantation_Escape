@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/21 Didn't It Rain.ogg-be5dc2bb77e44ba384020ba6599cf1a1.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/21 Didn't It Rain.ogg"
+dest_files=[ "res://.import/21 Didn't It Rain.ogg-be5dc2bb77e44ba384020ba6599cf1a1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

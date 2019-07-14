@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/24 Jesus Is My Only Friend.ogg-64c299f4ac24760696f1480013718408.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/24 Jesus Is My Only Friend.ogg"
+dest_files=[ "res://.import/24 Jesus Is My Only Friend.ogg-64c299f4ac24760696f1480013718408.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

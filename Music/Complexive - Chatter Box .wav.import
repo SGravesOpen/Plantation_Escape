@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Complexive - Chatter Box .wav-db405521722dd79536db160d66c84775.sample"
+
+[deps]
+
+source_file="res://Music/Complexive - Chatter Box .wav"
+dest_files=[ "res://.import/Complexive - Chatter Box .wav-db405521722dd79536db160d66c84775.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

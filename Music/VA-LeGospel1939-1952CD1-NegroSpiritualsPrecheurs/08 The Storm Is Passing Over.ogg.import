@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/08 The Storm Is Passing Over.ogg-394a79431ee6938a12d2c6e3cb44c748.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/08 The Storm Is Passing Over.ogg"
+dest_files=[ "res://.import/08 The Storm Is Passing Over.ogg-394a79431ee6938a12d2c6e3cb44c748.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

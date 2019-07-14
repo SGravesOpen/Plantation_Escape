@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/11 All God's Chillun Got Shoes.ogg-38554d0e6870593c5fb6872f3433ff2d.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/11 All God's Chillun Got Shoes.ogg"
+dest_files=[ "res://.import/11 All God's Chillun Got Shoes.ogg-38554d0e6870593c5fb6872f3433ff2d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

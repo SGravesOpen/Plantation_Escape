@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/05 Give Me That Old Time Religion.ogg-916d3063465d0661533d0e5ba2ffdf3b.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/05 Give Me That Old Time Religion.ogg"
+dest_files=[ "res://.import/05 Give Me That Old Time Religion.ogg-916d3063465d0661533d0e5ba2ffdf3b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

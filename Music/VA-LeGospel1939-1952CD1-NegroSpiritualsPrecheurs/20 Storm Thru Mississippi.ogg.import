@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/20 Storm Thru Mississippi.ogg-1b0483dfaffbc565325837178c311882.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/20 Storm Thru Mississippi.ogg"
+dest_files=[ "res://.import/20 Storm Thru Mississippi.ogg-1b0483dfaffbc565325837178c311882.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

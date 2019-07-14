@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/04 Daniel.ogg-d955b7e468d3c158b8a7d38a4d8fde5c.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/04 Daniel.ogg"
+dest_files=[ "res://.import/04 Daniel.ogg-d955b7e468d3c158b8a7d38a4d8fde5c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

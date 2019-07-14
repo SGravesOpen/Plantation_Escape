@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/18 I Saw the Light.ogg-ec79dca632fa01338b3a4b0bb6df19a9.oggstr"
+
+[deps]
+
+source_file="res://Music/VA-LeGospel1939-1952CD1-NegroSpiritualsPrecheurs/18 I Saw the Light.ogg"
+dest_files=[ "res://.import/18 I Saw the Light.ogg-ec79dca632fa01338b3a4b0bb6df19a9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
