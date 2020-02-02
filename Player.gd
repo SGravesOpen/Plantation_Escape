@@ -10,12 +10,24 @@ const maxSPEED = 200
 const JUMP_HEIGHT = -500
 var motion=Vector2()
 
+var score = 0
 
+
+
+func _process(delta):
+	var LabelNode = get_parent().get_node("Score Counter/UI/Control/RichTextLabel")
+	LabelNode.text=str(score)
+	
+	
 func _physics_process(delta):
 	motion = move_and_slide(motion, UP)
 	
 	motion.y += GRAVITY
+	
+	
 	var friction = false
+	
+	
 	
 	if Input.is_action_pressed("ui_right"):
 		motion.x = min(motion.x+acceleration, maxSPEED)
@@ -45,6 +57,14 @@ func _physics_process(delta):
 		if friction == true:
 			motion.x = lerp(motion.x, 0, 0.05)
 			
+	    
 	
 	
-	pass
+
+
+
+
+
+func _on_Coin_0_body_entered(body):
+	score + 1
+	pass # Replace with function body.
