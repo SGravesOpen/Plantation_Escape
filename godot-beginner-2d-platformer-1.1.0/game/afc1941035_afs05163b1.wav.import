@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/afc1941035_afs05163b1.wav-56054fb5449e12890dec2a8ceeac7acf.sample"
+
+[deps]
+
+source_file="res://afc1941035_afs05163b1.wav"
+dest_files=[ "res://.import/afc1941035_afs05163b1.wav-56054fb5449e12890dec2a8ceeac7acf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
