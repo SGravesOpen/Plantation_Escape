@@ -1,2 +1,2 @@
 # Plantation_Escape
-Game I did for Senior Project. really simple. Not a lot of graphics lol. Based off a tutorial i sued to get my feet wet. 
+Game I made to accompany my Senior Project research paper. A fairly straightforward mario clone with minimal graphics due to my own lack of artistic talent. God bless tutorials.
